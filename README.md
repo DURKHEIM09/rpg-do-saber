@@ -7,6 +7,8 @@ O **RPG do Saber** é um sistema de gamificação aplicado ao aprendizado técni
 - `console/` → Regras universais do jogo, fichas, mecânicas, sistema de XP.
 - `cds/` → CDs temáticos por matéria (ex: DevOps, Redes, Filosofia).
 
+📄 Leia o manual completo: [console/manual-do-rpg-do-saber.pdf](console/manual-do-rpg-do-saber.pdf)
+
 ## 🎮 Como Jogar
 
 1. Leia as regras em `console/README.md`.
